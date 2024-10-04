@@ -1,0 +1,8 @@
+Nota Fiscal
+====================================================================
+Produto: Arroz, Quantidade: 10, Valor: R$59.90
+Produto: Manteiga, Quantidade: 8, Valor: R$79.12
+Produto: Café, Quantidade: 4, Valor: R$51.96
+====================================================================
+Valor total da compra: R$190.98
+Método de pagamento: Débito
